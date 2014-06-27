@@ -1,3 +1,9 @@
+/*
+ * noJS mini css magic
+ * Notify when javascript is disabled in your browser
+ * Url: https://github.com/bullgit/nojs/
+ * By José Pino, @jofpin - 2014
+ */
 [nojs="on"] {
   position: fixed;
   display: block;
@@ -19,7 +25,6 @@
 [nojs="on"] span {
   color: #55acee;
 }
-
 [nojs="off"] {
   display: none; /* used to disable off */
 }
