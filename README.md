@@ -36,3 +36,4 @@ Notify when javascript is disabled in your browser
   display: none; /* used to disable off */
 }
 ```
+This will be very useful and it is!
