@@ -1,7 +1,7 @@
 nojs
 ====
 
-Notify when javascript is disabled in your browser
+Notify when javascript is disabled in your browser!
 
 ### Disable javascript to test demonstration
 
